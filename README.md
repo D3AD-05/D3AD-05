@@ -1,16 +1,12 @@
-### Hi there 👋
+<h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> 👋 Hi, I’m Dias Valooran </h2>
 
-<!--
-**D3AD-05/D3AD-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I’m interested in coding
+- 🪴 I’m currently working as junior Dev in Finobase Global Solution for an ERP software.
+- 🌱 Got my training in React JS at Global Infonet Inc.
+- 📫 How to reach me daisvlooran@gmail.com
+- 📱 My phone number is  +919605921937
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+ediot3/ediot3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
