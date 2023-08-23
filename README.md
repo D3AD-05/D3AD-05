@@ -1,7 +1,7 @@
 <h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> 👋 Hi, I’m Dias Valooran </h2>
 
 - 👀 I’m interested in coding
-- 🪴 I’m currently working as junior Dev in Finobase Global Solution for an ERP software.
+- 🪴 I’m currently working as Full stack Dev in Finobase Global Solution for an ERP software.
 - 🌱 Got my training in React JS at Global Infonet Inc.
 - 📫 How to reach me daisvlooran@gmail.com
 - 📱 My phone number is  +919605921937
