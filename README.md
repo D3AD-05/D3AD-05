@@ -5,7 +5,7 @@
 - 👀 I’m interested in coding
 - 🪴 I’m currently working as Full stack Dev in Finobase Global Solution
 - 🌱 Got my training in React JS at Global Infonet Inc.
-- 📫 How to reach me daisvlooran@gmail.com
+- 📫 How to reach me daisvalooran@gmail.com
 - 📱 My phone number is  +919605921937
 
 <!---
