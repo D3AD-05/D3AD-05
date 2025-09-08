@@ -4,6 +4,7 @@
 
 - 📫 How to reach me daisvalooran@gmail.com
 - 📱 My phone number is  +919605921937
+- https://daisvalooran.netlify.app/ 
 
 <!---
 ediot3/ediot3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
